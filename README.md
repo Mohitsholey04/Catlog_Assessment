@@ -93,8 +93,8 @@ Each test case JSON file should follow this format:
 After running the command `npm start`, the output will display the reconstructed secrets for each test case:
 
 ```
-Secret for Testcase 1: <calculated_secret_1>
-Secret for Testcase 2: <calculated_secret_2>
+Secret for Testcase 1: 3
+Secret for Testcase 2: 79836264046592
 ```
 
 ## Author
