@@ -7,7 +7,7 @@ This project implements Shamir's Secret Sharing Algorithm using Node.js. It read
 
 ## Project Structure
 
-```bash
+   ```bash
 
 ├──data
 │   ├── testcase1.json  # Input data for test case 1
@@ -17,7 +17,7 @@ This project implements Shamir's Secret Sharing Algorithm using Node.js. It read
 │   ├── utils.js          # Utility functions for decoding values and performing Lagrange interpolation
 ├── package.json          # Node.js package configuration
 └── README.md             # This readme file
-```
+   ```
 
 ## Installation
 
