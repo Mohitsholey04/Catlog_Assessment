@@ -1,0 +1,11 @@
+{
+  "name": "mohit_sharma",
+  "version": "1.0.0",
+  "description": "Shamir's Secret Sharing Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Mohit Sharma",
+  "license": "ISC"
+}
